@@ -50,7 +50,7 @@ pomodoro-timer
 - **Testing Notifications**: If notifications aren't working, ensure Chrome notifications are enabled for this extension under `chrome://settings/content/notifications`.
 
 ## Screenshots
-> Add screenshots of the popup timer interface to demonstrate the UI (if desired).
+![screenshot](https://github.com/vishwasracharya/pomodoro-timer-chrome-ext/blob/main/screenshot.png)
 
 ## Future Enhancements
 - **Custom Timer Length**: Allow users to adjust the focus session length.
