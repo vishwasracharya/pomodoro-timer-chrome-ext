@@ -11,6 +11,7 @@ A simple, lightweight Pomodoro Timer Chrome extension designed to help you boost
 ## Project Structure
 The project is organized as follows:
 
+```
 pomodoro-timer
 ├── favicon.ico
 ├── manifest.json
@@ -18,6 +19,7 @@ pomodoro-timer
 ├── popup.js
 ├── styles.css
 └── icon.png
+```
 
 ## Installation
 
